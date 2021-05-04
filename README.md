@@ -4,12 +4,17 @@ Pinot Client GO
 [![Build Status](https://travis-ci.org/xiangfu0/pinot-client-go.svg?branch=master)](https://travis-ci.org/xiangfu0/pinot-client-go)
 [![Coverage Status](https://coveralls.io/repos/github/xiangfu0/pinot-client-go/badge.svg?branch=master)](https://coveralls.io/github/xiangfu0/pinot-client-go?branch=master)
 
+---
+> **NOTE:** This repo is archived and all the new changes are going to the new Repo: [startreedata/pinot-client-go](https://github.com/startreedata/pinot-client-go)
+
+---
+
 Applications can use this golang client library to query Apache Pinot.
 
 Examples
 ========
 
-Please follow this [Pinot Quickstart](https://apache-pinot.gitbook.io/apache-pinot-cookbook/getting-started/running-pinot-locally) link to install and start Pinot batch quickstart locally.
+Please follow this [Pinot Quickstart](https://docs.pinot.apache.org/basics/getting-started/running-pinot-locally) link to install and start Pinot batch quickstart locally.
 
 ```
 bin/quick-start-batch.sh
